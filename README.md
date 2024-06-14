@@ -1,1 +1,3 @@
-# event
+- jika menggunakan google colabs perlu mount dulu drive yang ada
+- pastikan semua asset terload dengan baik
+- untuk menjalankan web pastikan sudah menginstall server seperti xampp atau mini server dengan vscode live preview
